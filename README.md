@@ -4,6 +4,7 @@
 [![Language](https://img.shields.io/badge/language-C%2B%2B17-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/harold372002/lgnite.h/archive/refs/heads/main.zip)
 
 ## 📖 Overview
 `lgnite` is a modern, single-file 2D game development library written in C++17. Built directly on native OpenGL 3.3 Core and GLFW, it provides a comprehensive, high-performance toolset for creating 2D games—ranging from simple prototypes to large-scale projects. By combining a hardware-accelerated batch renderer, a robust entity-component system (ECS), and a progressive, flat API, `lgnite` eliminates the boilerplate and complex build systems typically associated with C++ game development, allowing developers to focus entirely on gameplay.
